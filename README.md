@@ -238,8 +238,11 @@ def game_loop():
         clock.tick(60)
 
 game_intro()
+
 game_loop()
+
 pygame.quit()
+
 quit()
 
 SEDA KOODI KAITSEB SINU SÜDAMETUNNISTUS, ET SA SEDA MINGI HINNA EEST EI VARASTA!!!
